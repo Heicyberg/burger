@@ -4,6 +4,7 @@
   "description": "A  burger logger using MySQL, Node, Express, Handlebars and a homemade ORM, latter I will expand it to a order menu as app using for restaurants.",
   "main": "index.js",
   "scripts": {
+    "run": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
